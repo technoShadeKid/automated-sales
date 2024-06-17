@@ -1,5 +1,5 @@
 **Automated Sales Report Generator**
-Overview
+- Overview:
 This project is an automated system for generating and sending sales reports. It integrates with sales data stored in CSV files, organizes the information into an Excel spreadsheet, and ensures correct formatting of the sales date. Developed using Python, Pandas, and the win32com library for Outlook integration.
 
 **Features**
@@ -33,7 +33,7 @@ This project is licensed under the MIT License.
 ------------------------------------------------------------------------------------------------------------------------------------
 
 **Gerador automatizado de relatórios de vendas**
-Visão geral
+- Visão geral:
 Este projeto é um sistema automatizado para gerar e enviar relatórios de vendas. Ele se integra aos dados de vendas armazenados em arquivos CSV, organiza as informações em uma planilha do Excel e garante a formatação correta da data de vendas. Desenvolvido com Python, Pandas e a biblioteca win32com para integração com o Outlook.
 
 **Recursos**
